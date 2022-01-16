@@ -1,0 +1,85 @@
+.container > h1 {
+    text-align: center;
+    color: #64748b;
+}
+.container > h1 > span {
+    color: #63c6ff;
+}
+.imageLogo {
+    max-width: 620px;
+    margin: auto;
+    margin-top: 1rem;
+    display: block;
+}
+.section {
+    margin-top: 20px;
+    padding: 2rem 0rem;
+    background-color: #99f6e4;
+}
+.projectSection {
+    padding: 2rem 0rem;
+}
+.blogSection {
+    padding: 2rem 0rem;
+    background-color: #99f6e4;
+}
+.container-center {
+    max-width: 500px;
+    margin: auto;
+}
+.container-center > h2 {
+    text-align: center;
+    padding: 20px;
+}
+.container-center > p {
+    text-align: center;
+    padding-bottom: 20px;
+}
+.link-primary {
+    text-decoration: none;
+    color: black;
+    padding: 0.5rem 1rem;
+    background-color: #63c6ff;
+    border-radius: 1rem 2rem;
+}
+.link-secondary {
+    text-decoration: none;
+    color: black;
+    padding: 0.5rem 1rem;
+    border: 1px solid #63c6ff;
+    border-radius: 1rem 2rem;
+}
+.link-primary:hover {
+    background-color: #99f6e4;
+}
+.link-secondary:hover {
+    background-color: #63c6ff;
+}
+.footer {
+    display: flex;
+    justify-content: space-around;
+    background-color: #63c6ff;
+    margin-top: 40px;
+    position: sticky;
+    padding: 1rem 1rem;
+    border-top-left-radius: 1.5rem;
+    border-top-right-radius: 1.5rem;
+    overflow: hidden;
+}
+
+.footerLink {
+    cursor: pointer;
+    display: flex;
+    font-weight: 500;
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+}
+.footerLink:hover {
+    color: white;
+}
+.footerLink > img {
+    width: 20px;
+    height: 20px;
+    padding-right: 2px;
+}

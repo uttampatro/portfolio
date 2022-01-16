@@ -1,0 +1,30 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #63c6ff;
+    color: white;
+    padding: 1rem 1rem;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    border-bottom-left-radius: 1.5rem;
+    border-bottom-right-radius: 1.5rem;
+    overflow: hidden;
+}
+.headerName > h2 {
+    padding: 10px;
+}
+.headerPages {
+    display: flex;
+    justify-content: space-between;
+}
+h3 {
+    cursor: pointer;
+    /* font-weight: 500; */
+    padding: 10px;
+    color: black;
+}
+
+h3:hover {
+    color: white;
+}

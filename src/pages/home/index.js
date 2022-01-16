@@ -44,9 +44,9 @@ function Home() {
                         I like to showcase my work and thus, you can see my
                         projects hosted online
                     </p>
-                    <Link className="link link-primary " to="/projects">
+                    <a className="link link-primary" href="/projects">
                         See Projects
-                    </Link>
+                    </a>
                 </div>
             </div>
             <footer className="footer">

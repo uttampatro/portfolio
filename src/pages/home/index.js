@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import Header from '../../components/header';
 import imageLogo from '../../components/images/imageLogo.svg';
 import linkedInLogo from '../../components/images/linkedInLogo.png';
@@ -43,9 +44,9 @@ function Home() {
                         I like to showcase my work and thus, you can see my
                         projects hosted online
                     </p>
-                    <a className="link link-primary " href="/projects">
+                    <Link className="link link-primary " to="/projects">
                         See Projects
-                    </a>
+                    </Link>
                 </div>
             </div>
             <footer className="footer">

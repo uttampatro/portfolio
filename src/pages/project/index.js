@@ -12,7 +12,7 @@ function Project() {
             <div className="headerContainer">
                 <h1 className="headerContainer-heading">
                     Explore my{' '}
-                    <span style={{ color: '#63c6ff' }}>Projects</span> and try
+                    <span style={{ color: '#6c63ff' }}>Projects</span> and try
                     them out!
                 </h1>
             </div>

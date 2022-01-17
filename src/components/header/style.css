@@ -1,7 +1,7 @@
 .header {
     display: flex;
     justify-content: space-between;
-    background-color: #63c6ff;
+    background-color: #6c63ff;
     color: white;
     padding: 1rem 1rem;
     padding-left: 50px;
@@ -22,9 +22,9 @@ h3 {
     cursor: pointer;
     /* font-weight: 500; */
     padding: 10px;
-    color: black;
+    color: white;
 }
 
 h3:hover {
-    color: white;
+    color: black;
 }

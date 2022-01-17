@@ -3,7 +3,7 @@
     color: #64748b;
 }
 .container > h1 > span {
-    color: #63c6ff;
+    color: #6c63ff;
 }
 .imageLogo {
     max-width: 620px;
@@ -39,27 +39,27 @@
     text-decoration: none;
     color: black;
     padding: 0.5rem 1rem;
-    background-color: #63c6ff;
+    background-color: #6c63ff;
     border-radius: 1rem 2rem;
 }
 .link-secondary {
     text-decoration: none;
     color: black;
     padding: 0.5rem 1rem;
-    border: 1px solid #63c6ff;
+    border: 1px solid #6c63ff;
     border-radius: 1rem 2rem;
 }
 .link-primary:hover {
     background-color: #99f6e4;
 }
 .link-secondary:hover {
-    background-color: #63c6ff;
+    background-color: #6c63ff;
 }
 .footer {
     display: flex;
     justify-content: space-around;
-    background-color: #63c6ff;
-    margin-top: 40px;
+    background-color: #6c63ff;
+    margin-top: 10px;
     position: sticky;
     padding: 1rem 1rem;
     border-top-left-radius: 1.5rem;
@@ -72,11 +72,11 @@
     display: flex;
     font-weight: 500;
     text-decoration: none;
-    color: black;
+    color: white;
     padding: 10px;
 }
 .footerLink:hover {
-    color: white;
+    color: black;
 }
 .footerLink > img {
     width: 20px;

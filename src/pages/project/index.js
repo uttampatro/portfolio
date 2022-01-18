@@ -105,7 +105,7 @@ function Project() {
                         </a>
                     </div>
                 </div>
-                {/* <div className="bodyContainer-center">
+                <div className="bodyContainer-center">
                     <h1>Movie Uploader</h1>
                     <small>Sep, 2021</small>
                     <p>
@@ -115,7 +115,7 @@ function Project() {
                     <div className="linkContainer">
                         <a
                             className="link link-primary"
-                            href="https://vigorous-spence-26d3cf.netlify.app/"
+                            href="https://confident-yonath-533d7a.netlify.app/"
                             target="_blank"
                         >
                             Live Project
@@ -135,7 +135,7 @@ function Project() {
                             See Service Code
                         </a>
                     </div>
-                </div> */}
+                </div>
                 <div className="bodyContainer-center">
                     <h1>Twitter Clone</h1>
                     <small>Jul, 2021</small>

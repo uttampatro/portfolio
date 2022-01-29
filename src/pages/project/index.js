@@ -40,14 +40,14 @@ function Project() {
                             href="https://github.com/uttampatro/udemy-client"
                             target="_blank"
                         >
-                            See client Code
+                            See Client Code
                         </a>
                         <a
                             className="link link-secondary"
                             href="https://github.com/uttampatro/udemy-server"
                             target="_blank"
                         >
-                            See service Code
+                            See Service Code
                         </a>
                     </div>
                 </div>
@@ -166,7 +166,7 @@ function Project() {
                             href="https://github.com/uttampatro/twitter-server"
                             target="_blank"
                         >
-                            See service Code
+                            See Service Code
                         </a>
                     </div>
                 </div>

@@ -61,7 +61,7 @@ function Project() {
                     <div className="linkContainer">
                         <a
                             className="link link-primary"
-                            href="https://replit.com/@UttamPatro/end-game?embed=true#index.js"
+                            href="https://replit.com/@UttamPatro/end-game?embed=true"
                             target="_blank"
                         >
                             Live Project

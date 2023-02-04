@@ -19,6 +19,11 @@ function Header() {
                         <h3>Projects</h3>
                     </Link>
                 </div>
+                <div>
+                    <Link style={{ textDecoration: 'none' }} to="/blogs">
+                        <h3>Blogs</h3>
+                    </Link>
+                </div>
             </div>
         </div>
     );

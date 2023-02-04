@@ -29,21 +29,21 @@ function Project() {
                     </p>
                     <div className="linkContainer">
                         <a
-                            className="link link-primary"
+                            className="link link-primary1"
                             href="https://serene-engelbart-6b90e8.netlify.app/"
                             target="_blank"
                         >
                             Live Project
                         </a>
                         <a
-                            className="link link-secondary"
+                            className="link link-secondary2"
                             href="https://github.com/uttampatro/udemy-client"
                             target="_blank"
                         >
                             See Client Code
                         </a>
                         <a
-                            className="link link-secondary"
+                            className="link link-secondary2"
                             href="https://github.com/uttampatro/udemy-server"
                             target="_blank"
                         >
@@ -60,14 +60,14 @@ function Project() {
                     </p>
                     <div className="linkContainer">
                         <a
-                            className="link link-primary"
+                            className="link link-primary1"
                             href="https://replit.com/@UttamPatro/end-game?embed=true"
                             target="_blank"
                         >
                             Live Project
                         </a>
                         <a
-                            className="link link-secondary"
+                            className="link link-secondary2"
                             href="https://github.com/uttampatro/quiz-game"
                             target="_blank"
                         >
@@ -83,21 +83,21 @@ function Project() {
                     </p>
                     <div className="linkContainer">
                         <a
-                            className="link link-primary"
+                            className="link link-primary1"
                             href="https://vigorous-spence-26d3cf.netlify.app/"
                             target="_blank"
                         >
                             Live Project
                         </a>
                         <a
-                            className="link link-secondary"
+                            className="link link-secondary2"
                             href="https://github.com/uttampatro/assignment-02"
                             target="_blank"
                         >
                             See Client Code
                         </a>
                         <a
-                            className="link link-secondary"
+                            className="link link-secondary2"
                             href="https://github.com/uttampatro/assignment-02-service"
                             target="_blank"
                         >
@@ -114,21 +114,21 @@ function Project() {
                     </p>
                     <div className="linkContainer">
                         <a
-                            className="link link-primary"
+                            className="link link-primary1"
                             href="https://confident-yonath-533d7a.netlify.app/"
                             target="_blank"
                         >
                             Live Project
                         </a>
                         <a
-                            className="link link-secondary"
+                            className="link link-secondary2"
                             href="https://github.com/uttampatro/assignment-01"
                             target="_blank"
                         >
                             See Client Code
                         </a>
                         <a
-                            className="link link-secondary"
+                            className="link link-secondary2"
                             href="https://github.com/uttampatro/assignment-01-service"
                             target="_blank"
                         >
@@ -148,21 +148,21 @@ function Project() {
                     </p>
                     <div className="linkContainer">
                         <a
-                            className="link link-primary"
+                            className="link link-primary1"
                             href="https://hungry-shaw-1bd676.netlify.app"
                             target="_blank"
                         >
                             Live Project
                         </a>
                         <a
-                            className="link link-secondary"
+                            className="link link-secondary2"
                             href="https://github.com/uttampatro/twitter-client"
                             target="_blank"
                         >
                             See Client Code
                         </a>
                         <a
-                            className="link link-secondary"
+                            className="link link-secondary2"
                             href="https://github.com/uttampatro/twitter-server"
                             target="_blank"
                         >
@@ -176,6 +176,7 @@ function Project() {
                     <a
                         href="https://www.linkedin.com/in/uttam-patro-28802717a/"
                         className="footerLink"
+                        target="_blank"
                     >
                         <img src={linkedInLogo} />
                         LinkedIn
@@ -185,6 +186,7 @@ function Project() {
                     <a
                         href="https://github.com/uttampatro"
                         className="footerLink"
+                        target="_blank"
                     >
                         <img
                             style={{ width: '18px', height: '18px' }}
@@ -196,8 +198,9 @@ function Project() {
 
                 <div className="footerLogo">
                     <a
-                        href="https://twitter.com/0xUttam"
+                        href="https://twitter.com/uttxmpatro"
                         className="footerLink"
+                        target="_blank"
                     >
                         <img src={twitterLogo} />
                         Twitter

@@ -38,15 +38,17 @@
     background-color: #6c63ff;
     border-radius: 1rem 2rem;
 }
-.link-secondary {
+.link-secondary2 {
     text-decoration: none;
-    color: black;
+    color: #6c63ff;
     padding: 0.5rem 1rem;
     border: 1px solid #6c63ff;
     border-radius: 1rem 2rem;
 }
-.link-primary:hover {
-    background-color: #99f6e4;
+.link-primary1:hover {
+    background-color: #f3f4f6;
+    color: #6c63ff;
+    border: 1px solid #6c63ff;
 }
 .link-secondary:hover {
     background-color: #6c63ff;

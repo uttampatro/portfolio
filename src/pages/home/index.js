@@ -26,14 +26,10 @@ function Home() {
                 <div className="container-center">
                     <h2>/technologies</h2>
                     <p>
-                        I have been actively self-teaching programming since
-                        last six months and I have learned and played around
-                        with big projects on GitHub and taught myself to build a
-                        full stack application on ReactJs, NodeJS (Typescript)
-                        and have worked with MongoDB and PostgreSQL for data
-                        store. And built multiple projects on this tech stack &
-                        I am very much resilient to learn and adapt new
-                        technologies.
+                        I am a full stack developer, primarily works on
+                        javascript tech stack - node.js, react.js and have been
+                        actively shipping multiple projects in
+                        Node/React/MongoDB stack.
                     </p>
                 </div>
             </div>
@@ -44,8 +40,20 @@ function Home() {
                         I like to showcase my work and thus, you can see my
                         projects hosted online
                     </p>
-                    <a className="link link-primary" href="/projects">
+                    <a className="link link-primary1" href="/projects">
                         See Projects
+                    </a>
+                </div>
+            </div>
+            <div className="section">
+                <div className="container-center">
+                    <h2>/blogs</h2>
+                    <p>
+                        I am also working on some technical and non techincal
+                        blogs. I like to document my journey of learning.
+                    </p>
+                    <a className="link link-primary1" href="/blogs">
+                        See Blogs
                     </a>
                 </div>
             </div>
@@ -54,6 +62,7 @@ function Home() {
                     <a
                         href="https://www.linkedin.com/in/uttam-patro-28802717a/"
                         className="footerLink"
+                        target="_blank"
                     >
                         <img src={linkedInLogo} />
                         LinkedIn
@@ -63,6 +72,7 @@ function Home() {
                     <a
                         href="https://github.com/uttampatro"
                         className="footerLink"
+                        target="_blank"
                     >
                         <img
                             style={{ width: '18px', height: '18px' }}
@@ -74,8 +84,9 @@ function Home() {
 
                 <div className="footerLogo">
                     <a
-                        href="https://twitter.com/0xUttam"
+                        href="https://twitter.com/uttxmpatro"
                         className="footerLink"
+                        target="_blank"
                     >
                         <img src={twitterLogo} />
                         Twitter

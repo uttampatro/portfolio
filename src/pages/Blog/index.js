@@ -83,6 +83,7 @@ function Blog() {
                     <a
                         href="https://www.linkedin.com/in/uttam-patro-28802717a/"
                         className="footerLink"
+                        target="_blank"
                     >
                         <img src={linkedInLogo} />
                         LinkedIn
@@ -92,6 +93,7 @@ function Blog() {
                     <a
                         href="https://github.com/uttampatro"
                         className="footerLink"
+                        target="_blank"
                     >
                         <img
                             style={{ width: '18px', height: '18px' }}
@@ -103,7 +105,8 @@ function Blog() {
 
                 <div className="footerLogo">
                     <a
-                        href="https://twitter.com/0xUttam"
+                        href="https://twitter.com/uttxmpatro"
+                        target="_blank"
                         className="footerLink"
                     >
                         <img src={twitterLogo} />

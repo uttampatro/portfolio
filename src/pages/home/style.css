@@ -13,8 +13,10 @@
 }
 .section {
     margin-top: 20px;
+    max-width: 500;
+    margin: auto;
     padding: 2rem 0rem;
-    background-color: #99f6e4;
+    background-color: #f3f4f6;
 }
 .projectSection {
     padding: 2rem 0rem;
@@ -35,7 +37,7 @@
     text-align: center;
     padding-bottom: 20px;
 }
-.link-primary {
+.link-primary1 {
     text-decoration: none;
     color: black;
     padding: 0.5rem 1rem;
@@ -49,11 +51,14 @@
     border: 1px solid #6c63ff;
     border-radius: 1rem 2rem;
 }
-.link-primary:hover {
-    background-color: #99f6e4;
+.link-primary1:hover {
+    background-color: #f3f4f6;
+    color: #6c63ff;
+    border: 1px solid #6c63ff;
 }
-.link-secondary:hover {
+.link-secondary2:hover {
     background-color: #6c63ff;
+    color: black;
 }
 .footer {
     display: flex;

@@ -15,4 +15,5 @@ Day 3
   - Single Number
   - Majority Element
   - Contains Duplicate
+  - Missing Number
   - Intersection of Two Arrays

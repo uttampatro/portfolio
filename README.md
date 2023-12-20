@@ -9,3 +9,10 @@ Day 2
   - Remove Element
   - Plus One
   - Merge Sorted Array
+
+Day 3
+  - Best Time to Buy and Sell Stock
+  - Single Number
+  - Majority Element
+  - Contains Duplicate
+  - Intersection of Two Arrays

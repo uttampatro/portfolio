@@ -17,3 +17,9 @@ Day 3 (20 Dec)
   - Contains Duplicate
   - Missing Number
   - Intersection of Two Arrays
+
+Day 4 (21 Dec)
+   - Move Zeroes
+   - Flipping an Image
+   - Sort Colors
+

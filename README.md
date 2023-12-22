@@ -23,3 +23,8 @@ Day 4 (21 Dec)
    - Flipping an Image
    - Sort Colors
 
+Day 5 (22 Dec)
+   - Squares of a Sorted Array
+   - Concatenation of Array
+   - Truncate Sentence
+

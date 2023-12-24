@@ -28,3 +28,12 @@ Day 5 (22 Dec)
    - Concatenation of Array
    - Truncate Sentence
 
+Day 6 (24 Dec)
+   - Product of Array Except Self
+   - Valid Parentheses
+   - Pow(x, n)
+   - Power of Two
+   - Length of Last Word
+   - Reverse String
+
+

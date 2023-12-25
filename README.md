@@ -35,5 +35,10 @@ Day 6 (24 Dec)
    - Power of Two
    - Length of Last Word
    - Reverse String
+     
+Day 7 (25 Dec)
+   - Fizz Buzz
+   - To Lower Case
+   - Shuffle String
 
 

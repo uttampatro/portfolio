@@ -41,4 +41,9 @@ Day 7 (25 Dec)
    - To Lower Case
    - Shuffle String
 
+Day 8 (26 Dec)
+   - Find the Difference of Two Arrays
+   - Remove Duplicates from Sorted Array II
+
+
 

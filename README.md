@@ -45,5 +45,11 @@ Day 8 (26 Dec)
    - Find the Difference of Two Arrays
    - Remove Duplicates from Sorted Array II
 
+Day 9 (27 Dec)
+   - Two Sum II - Input Array Is Sorted
+   - Divide Array Into Equal Pairs
+   - Find the Duplicate Number
+     
+
 
 

@@ -49,6 +49,11 @@ Day 9 (27 Dec)
    - Two Sum II - Input Array Is Sorted
    - Divide Array Into Equal Pairs
    - Find the Duplicate Number
+
+Day 10 (28 Dec)
+   - Find All Duplicates in an Array
+   - Single Element in a Sorted Array
+   - 
      
 
 

@@ -53,7 +53,13 @@ Day 9 (27 Dec)
 Day 10 (28 Dec)
    - Find All Duplicates in an Array
    - Single Element in a Sorted Array
-   - 
+
+Day 11 (30 Dec)
+   - Power of Three
+   - Sum of Two Integers (not clear)
+   - Find the Difference
+   - Repeated Substring Pattern
+
      
 
 

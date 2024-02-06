@@ -60,6 +60,9 @@ Day 11 (30 Dec)
    - Find the Difference
    - Repeated Substring Pattern
 
+Day 12 (6 Feb)
+   - Find First and Last Position of Element in Sorted Array
+
      
 
 

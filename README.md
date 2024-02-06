@@ -62,6 +62,7 @@ Day 11 (30 Dec)
 
 Day 12 (6 Feb)
    - Find First and Last Position of Element in Sorted Array
+   - Search in Rotated Sorted Array
 
      
 

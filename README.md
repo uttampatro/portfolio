@@ -64,6 +64,9 @@ Day 12 (6 Feb)
    - Find First and Last Position of Element in Sorted Array
    - Search in Rotated Sorted Array
 
+Day 13 
+  - Rotate Array
+
      
 
 

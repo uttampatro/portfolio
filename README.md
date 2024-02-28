@@ -70,6 +70,11 @@ Day 13
 
 Day 14
   - Third Maximum Number
+  - Find Peak Element
+
+Day 15
+  - Maximum Product of Three Numbers
+  - Search Insert Position
 
      
 

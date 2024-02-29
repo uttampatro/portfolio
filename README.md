@@ -76,6 +76,11 @@ Day 15
   - Maximum Product of Three Numbers
   - Search Insert Position
 
+Day 16
+  - Intersection of Two Arrays II
+  - Transpose Matrix
+  - Toeplitz Matrix
+
      
 
 
